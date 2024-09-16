@@ -6,12 +6,16 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
 
-
+The different open data and open educational resources are particularly interesting to me. The importance of open data sources and ethical considerations will help me conduct my current research more precisely. Different open educational resources, such as The Carpenter, will help students learn coding.
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects.
 
+I want to explore different open learning sources more. It will help me learn different data analysis techniques for my research. In addition, I want to learn from these sources about machine learning techniques for my research.
+
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
+
+Finding appropriate data sources for the research takes time and effort. Free accessibility of the data sources and ethical consideration of the data uses could be more elaborate. Knowing more about accessible open data sources would help me do my research more appropriately.
 
 ## Partner Discussions
 
